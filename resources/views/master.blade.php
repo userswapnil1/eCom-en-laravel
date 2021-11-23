@@ -22,5 +22,23 @@
 		height: 500px;
 		padding-top: 100px;
 	}
+	img.slider-img{
+		height: 400px !important;
+		 margin-left: auto;
+         margin-right: auto;
+	}
+	.custom-product{
+		height: 600px;
+	}
+	.trending-image{
+		height: 100px;
+	}
+	.trending-item{
+		float: left;
+		width: 20%;
+	}
+	.detail-img{
+		height: 200px;
+	}
 </style>
 </html>
